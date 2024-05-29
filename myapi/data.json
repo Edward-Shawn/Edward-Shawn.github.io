@@ -6,31 +6,31 @@
     "tags": ["react", "next"]
   },
   {
-    "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_01.jpg",
+    "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_artfe.jpg",
     "title": "아트페",
     "description": "메이커빌 근무 당시 제작한 쇼핑몰 사이트인 메이커갤러리의 백오피스입니다.",
     "tags": ["react", "next"]
   },
   {
-    "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_02.jpg",
+    "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_gallery.jpg",
     "title": "손경수 갤러리",
     "description": "개인 작가 사이트를 기획하고 작업한 프로젝트입니다",
     "tags": ["react", "next"]
   },
   {
-    "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_03.jpg",
-    "title": "피플레이스",
+    "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_edusource.jpg",
+    "title": "에듀소스",
     "description": "메이커빌 근무 당시 제작한 쇼핑몰 사이트인 메이커갤러리의 백오피스입니다.",
     "tags": ["react", "next"]
   },
   {
-    "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_04.jpg",
+    "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_radi.jpg",
     "title": "라디",
     "description": "메이커빌 근무 당시 제작한 쇼핑몰 사이트인 메이커갤러리의 백오피스입니다.",
     "tags": ["react", "next"]
   },
   {
-    "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_05.jpg",
+    "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_peoplace.jpg",
     "title": "피플레이스",
     "description": "메이커빌 근무 당시 제작한 쇼핑몰 사이트인 메이커갤러리의 백오피스입니다.",
     "tags": ["react", "next"]
