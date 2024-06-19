@@ -8,23 +8,32 @@
     "link": "https://edward-shawn.github.io/"
   },
   {
+    "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_fassto.jpg",
+    "title": "fassto & aboutFassto",
+    "description": "파스토 근무당시 홈페이지 및 회사소개 페이지 UI/UX, 인터렉션, 기능 개선작업진행",
+    "tags": ["html", "scss", "vue", "thymeleaf"],
+    "link": "https://www.fassto.ai/",
+    "link2": "https://about.fassto.ai/"
+  },
+
+  {
     "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_artfe.jpg",
     "title": "아트페",
-    "description": "메이커빌 근무 당시 제작한 쇼핑몰 사이트인 메이커갤러리의 백오피스입니다.",
+    "description": "라이피스 근무 당시 제작한 아트페",
     "tags": ["react", "next"],
     "link": "https://artfe.kr/"
   },
   {
     "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_gallery.jpg",
     "title": "손경수 갤러리",
-    "description": "개인 작가 사이트를 기획하고 작업한 프로젝트입니다",
+    "description": "라이피스 미술 작가의 개인 홈페이지 작업",
     "tags": ["react", "next"],
     "link": "http://sonkyungsoogallery.com/main"
   },
   {
     "thumbnail": "https://edward-shawn.github.io/myapi/portfolio-img/thumbnail_edusource.jpg",
     "title": "에듀소스",
-    "description": "메이커빌 근무 당시 제작한 쇼핑몰 사이트인 메이커갤러리의 백오피스입니다.",
+    "description": "라이피스 근무 당시 제작한 쇼핑몰 사이트인 메이커갤러리의 백오피스입니다.",
     "tags": ["react", "next"],
     "link": "https://edusource.co.kr/"
   },
